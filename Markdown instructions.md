@@ -32,7 +32,7 @@
 
 [Это ссылка на 2е домашнее задание по git](https://gbcdn.mrgcdn.ru/uploads/asset/3899265/attachment/ac80a67ef428117d2b1032f13d4ad4e9.jpg)
 
-[А это ссылка на картинку в папке GITEDUCATION](22a32e8d838dc47521cf770c6c1cb38b.jpg)## Работа с таблицами
+[А это ссылка на картинку в папке GITEDUCATION](22a32e8d838dc47521cf770c6c1cb38b.jpg)
 
 ## Работа с таблицами
 
