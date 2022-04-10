@@ -30,7 +30,7 @@
 
 ## Ссылки
 
-[Это ссылка на 1е домашнее задание по git](https://gbcdn.mrgcdn.ru/uploads/asset/3876114/attachment/2309806a40b307545d34698d576858d2.png)
+[Это ссылка на 2е домашнее задание по git](https://gbcdn.mrgcdn.ru/uploads/asset/3899265/attachment/ac80a67ef428117d2b1032f13d4ad4e9.jpg)
 
 ## Работа с таблицами
 
